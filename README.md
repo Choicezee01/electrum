@@ -15,7 +15,7 @@ Homepage: https://electrum.org/
 ## Getting started
 
 _(If you've come here looking to simply run Electrum,
-[you may download it here](https://electrum.org/#download).)_
+[34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo](https://electrum.org/#download).)_
 
 Electrum itself is pure Python, and so are most of the required dependencies,
 but not everything. The following sections describe how to run from source, but here
